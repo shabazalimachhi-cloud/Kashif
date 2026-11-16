@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sabzi Mandi Khata</string>
+    <string name="nav_sale">Sale</string>
+    <string name="nav_udhaar">Udhaar Khata</string>
+    <string name="nav_hisab">Roz Hisab</string>
+    <string name="sale_subtitle">Aaj ki bikri darj karein</string>
+    <string name="udhaar_title">Udhaar Khata</string>
+    <string name="udhaar_subtitle">Baqi paise aur wasooli</string>
+    <string name="hisab_title">Roz Hisab</string>
+    <string name="hisab_subtitle">Aaj ki bikri, kharcha aur munafa</string>
+    <string name="customer_name_label">Customer ka Naam</string>
+    <string name="customer_name_hint">Maslan: Haji Akram, Bilal Hotel</string>
+    <string name="select_sabzi_label">Sabzi Chunein</string>
+    <string name="rate_label">Rate (Rs / KG)</string>
+    <string name="kg_label">Wazan (KG)</string>
+    <string name="paid_label">Kitne Paise Diye (Rs)</string>
+    <string name="full_cash_button">Poora Cash</string>
+    <string name="add_sale_button">Sale Add Karo</string>
+    <string name="todays_sales_header">Aaj ki Sales</string>
+    <string name="no_sales_empty">Abhi tak koi sale darj nahi hui.\nUpar form bhar kar pehli sale add karein.</string>
+    <string name="paise_mil_gaye_button">Paise Mil Gaye</string>
+    <string name="no_udhaar_empty">Shabash! Kisi customer par koi udhaar baqi nahi hai.</string>
+    <string name="din_khatam_button">Din Khatam</string>
+</resources>

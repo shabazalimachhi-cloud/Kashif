@@ -1,0 +1,6 @@
+{
+  "name": "Sabzi Mandi Khata",
+  "description": "Sabzi mandi ki dukaan ke liye rozana sale, udhaar khata aur roz hisab app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
